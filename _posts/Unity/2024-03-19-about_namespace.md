@@ -39,7 +39,8 @@ public class Bclass : MonoBehaviour
 ## 2.Global namespace
 하지만 놀랍게도 Unity 에서는 namespace 를 사용하지 않아도, 스크립트 간에 서로 정의된 클래스를 사용할 수 있었는데, 이것이 가능했던 이유는  Unity는 기본적으로 Global namespace를 사용하기 때문이라고 한다.
 
-'global::' prefix 로 네임스페이스 충돌 문제를 해결하는 간단한 예제로 마무리한당
+'global::' prefix 로 네임스페이스 충돌 문제를 해결하는 간단한 예제로 마무리한당  
+
 ```c#
 // 사용자 정의 UnityEngine 네임스페이스와 Debug 클래스
 namespace UnityEngine
