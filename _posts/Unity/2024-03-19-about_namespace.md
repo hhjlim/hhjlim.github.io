@@ -67,3 +67,4 @@ public class GameScript : MonoBehaviour
         global::UnityEngine.Debug.Log("Unity's Debug Log");
     }
 }
+```
