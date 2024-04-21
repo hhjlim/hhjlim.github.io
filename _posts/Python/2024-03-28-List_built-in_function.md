@@ -3,7 +3,8 @@ title: "(Python) Built-in function (List & String) "
 categories:
   - Python
 tags:
-  - Python, built-in function
+  - Python
+  - built-in function
 ---
 
 # list 와 문자열에 유용하게 사용할 수 있는 몇가지 built-in 함수들을 정리해보자

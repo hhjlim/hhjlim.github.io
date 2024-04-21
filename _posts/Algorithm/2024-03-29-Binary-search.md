@@ -3,7 +3,9 @@ title: "(Algorithm) Binary search"
 categories:
   - Algorithm
 tags:
-  - Binary search, Python
+  - Algorithm
+  - Binary search
+  - Python
 ---
 
 ## 이진탐색을 Python으로 구현해 보자

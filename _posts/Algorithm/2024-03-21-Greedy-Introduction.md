@@ -4,7 +4,9 @@ layout: single
 categories:
   - Algorithm
 tags:
-  - Greedy, Python
+  - Algorithm
+  - Greedy
+  - Python
 ---
 
 **(문제) 1이 될 때까지 :**

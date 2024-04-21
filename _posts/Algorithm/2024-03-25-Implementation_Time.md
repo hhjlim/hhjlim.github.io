@@ -3,7 +3,9 @@ title: "(Algorithm) Implementation - Time"
 categories:
   - Algorithm
 tags:
-  - Implementation, Python
+  - Algorithm
+  - Implementation
+  - Python
 ---
 
 ### **(문제) 시각 :**

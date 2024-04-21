@@ -3,6 +3,7 @@ title: "Unity - Global Namespace"
 categories:
   - Unity
 tags:
+  - Unity
   - C#
 ---
 

@@ -3,7 +3,8 @@ title: "(Python) - List Comprehension "
 categories:
   - Python
 tags:
-  - Python, List Comprehension
+  - Python
+  - List Comprehension
 ---
 
 # 리스트 컴프리헨션(List Comprehension)

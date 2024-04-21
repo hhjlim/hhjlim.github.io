@@ -3,7 +3,9 @@ title: "(Algorithm) Implementation - Knight Movements"
 categories:
   - Algorithm
 tags:
-  - Implementation, Python
+  - Algorithm
+  - Implementation
+  - Python
 ---
 
 ### **(문제) 왕실의 나이트 :**

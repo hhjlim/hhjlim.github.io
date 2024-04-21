@@ -3,7 +3,9 @@ title: "(Algorithm) Implementation - String Reordering"
 categories:
   - Algorithm
 tags:
-  - Implementation, Python
+  - Algorithm
+  - Implementation
+  - Python
 ---
 
 ### **(문제) 문자열 재정렬 :**

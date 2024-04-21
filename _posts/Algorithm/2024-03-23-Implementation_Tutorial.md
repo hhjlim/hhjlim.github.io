@@ -3,7 +3,9 @@ title: "(Algorithm) Implementation Tutorial"
 categories:
   - Algorithm
 tags:
-  - Implementation, Python
+  - Algorithm
+  - Implementation
+  - Python
 ---
 
 **(문제) 상하좌우:**

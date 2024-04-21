@@ -3,6 +3,7 @@ title: "First Post"
 categories:
   - Jekyll
 tags:
+  - Jekyll
   - setups
 ---
 
