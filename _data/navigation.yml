@@ -1,17 +1,17 @@
 # category
 category:
   - title: "LeetCode"
-    url: /categories/leetcode/
+    url: /categories/LeetCode/
     children:
       - title: "Data Structure"
-        url: /categories/leetcode/data_structure/
+        url: /categories/LeetCode/Data_Structure/
       - title: "Algorithm"
-        url: /categories/leetcode/algorithm/
+        url: /categories/LeetCode/Algorithm/
   - title: "Python"
-    url: /categories/python/
+    url: /categories/Python/
   - title: "Bluetooth"
-    url: /categories/bluetooth/
+    url: /categories/Bluetooth/
   - title: "Unity"
-    url: /categories/unity/
+    url: /categories/Unity/
   - title: "Jekyll"
-    url: /categories/jekyll/
+    url: /categories/Jekyll/
