@@ -1,6 +1,7 @@
 ---
 title: "(Algorithm) Implementation - Time"
 categories:
+  - LeetCode
   - Algorithm
 tags:
   - Algorithm
@@ -8,7 +9,7 @@ tags:
   - Python
 ---
 
-### **(문제) 시각 :**
+## **(문제) 시각 :**
 - 첫째 줄에 정수 N
 - 00시 00분 00초 부터 N시 59분 59초 까지의 모든 시각 중에서 3이 하나라도 포함되는 모든 경우의 수를 출력
 

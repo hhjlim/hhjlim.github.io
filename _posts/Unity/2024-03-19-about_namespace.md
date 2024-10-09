@@ -1,5 +1,5 @@
 ---
-title: "Unity - Global Namespace"
+title: "(Unity) Global Namespace"
 categories:
   - Unity
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "(Algorithm) Implementation - String Reordering"
 categories:
+  - LeetCode
   - Algorithm
 tags:
   - Algorithm
@@ -8,7 +9,7 @@ tags:
   - Python
 ---
 
-### **(문제) 문자열 재정렬 :**
+## **(문제) 문자열 재정렬 :**
 - 첫째 줄에 하나의 문자열 S
 - 알파벳은 알파벳끼리 모아서 앞에 정렬 + 숫자는 숫자끼리 전부다 더해서 문자열의 맨끝에 출력
 

@@ -1,6 +1,7 @@
 ---
 title: "(Algorithm) Binary search"
 categories:
+  - LeetCode
   - Algorithm
 tags:
   - Algorithm

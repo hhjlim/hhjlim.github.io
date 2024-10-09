@@ -1,8 +1,17 @@
-# main links
-main:
-  - title: "Home"
-    url: /
-  - title: "Category"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+# category
+category:
+  - title: "LeetCode"
+    url: /categories/leetcode/
+    children:
+      - title: "Data Structure"
+        url: /categories/leetcode/data_structure/
+      - title: "Algorithm"
+        url: /categories/leetcode/algorithm/
+  - title: "Python"
+    url: /categories/python/
+  - title: "Bluetooth"
+    url: /categories/bluetooth/
+  - title: "Unity"
+    url: /categories/unity/
+  - title: "Jekyll"
+    url: /categories/jekyll/

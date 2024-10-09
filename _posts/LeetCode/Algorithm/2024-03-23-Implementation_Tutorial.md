@@ -1,6 +1,7 @@
 ---
 title: "(Algorithm) Implementation Tutorial"
 categories:
+  - LeetCode
   - Algorithm
 tags:
   - Algorithm
@@ -8,7 +9,7 @@ tags:
   - Python
 ---
 
-**(문제) 상하좌우:**
+## **(문제) 상하좌우:**
 - 여행가 A는 N x N 크기의 정사각형 공간 위에 서 있습니다.
 - 이 공간은 1 x 1 크기의 정사각형으로 나누어져 있습니다.
 - 가장 왼쪽 위 좌표는 (1, 1)이며, 가종 오른쪽 아래 좌표는 (N, N)에 해당

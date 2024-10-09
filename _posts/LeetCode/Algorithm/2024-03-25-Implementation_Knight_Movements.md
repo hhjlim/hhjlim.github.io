@@ -1,6 +1,7 @@
 ---
 title: "(Algorithm) Implementation - Knight Movements"
 categories:
+  - LeetCode
   - Algorithm
 tags:
   - Algorithm
@@ -8,7 +9,7 @@ tags:
   - Python
 ---
 
-### **(문제) 왕실의 나이트 :**
+## **(문제) 왕실의 나이트 :**
 - 첫째 줄에 8 x 8 좌표 평면상에서 현재 나이트가 위치한 곳의 좌표를 나타내는 두 문자로 구성된 문자열
 - 나이트가 이동할 수 있는 경우의 수를 출력
 

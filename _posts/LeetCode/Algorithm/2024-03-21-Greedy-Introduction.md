@@ -2,6 +2,7 @@
 title: "(Algorithm) Greedy Introduction"
 layout: single
 categories:
+  - LeetCode
   - Algorithm
 tags:
   - Algorithm
@@ -9,7 +10,7 @@ tags:
   - Python
 ---
 
-**(문제) 1이 될 때까지 :**
+## **(문제) 1이 될 때까지 :**
 - 어떠한 수 N이 1이 될 때까지 다음의 두 과정 중 하나를 반복적으로 선택하여 수행
 - 단, 두번째 연산은 N이 K로 나누어 떨어질 때만 선택할 수 있습니다.
 1. N에서 1을 뺍니다
