@@ -7,6 +7,11 @@ category:
         url: /categories/LeetCode/Data_Structure/
       - title: "Algorithm"
         url: /categories/LeetCode/Algorithm/
+  - title: "Network"
+    url: /categories/Network/
+    children:
+      - title: "Socket Programming"
+        url: /categories/Network/Socket_Programming/
   - title: "Python"
     url: /categories/Python/
   - title: "Bluetooth"
